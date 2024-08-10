@@ -112,6 +112,118 @@ const VIDEOS = [{
     author: "Shahid Afridi",
     views: "970k",
     timestamp: "9 month ago"
+},{
+    thumbnailImg: "img.jpg",
+    AuthorImg: "img1.jpg" , 
+    title: "Rise and Shine! It's Your Time to Stun the World with Success",
+    author: "Shahid Afridi",
+    views: "970k",
+    timestamp: "9 month ago"
+},{
+    thumbnailImg: "img.jpg",
+    AuthorImg: "img1.jpg" , 
+    title: "Rise and Shine! It's Your Time to Stun the World with Success",
+    author: "Shahid Afridi",
+    views: "970k",
+    timestamp: "9 month ago"
+},{
+    thumbnailImg: "img.jpg",
+    AuthorImg: "img1.jpg" , 
+    title: "Rise and Shine! It's Your Time to Stun the World with Success",
+    author: "Shahid Afridi",
+    views: "970k",
+    timestamp: "9 month ago"
+},{
+    thumbnailImg: "img.jpg",
+    AuthorImg: "img1.jpg" , 
+    title: "Rise and Shine! It's Your Time to Stun the World with Success",
+    author: "Shahid Afridi",
+    views: "970k",
+    timestamp: "9 month ago"
+},{
+    thumbnailImg: "img.jpg",
+    AuthorImg: "img1.jpg" , 
+    title: "Rise and Shine! It's Your Time to Stun the World with Success",
+    author: "Shahid Afridi",
+    views: "970k",
+    timestamp: "9 month ago"
+},{
+    thumbnailImg: "img.jpg",
+    AuthorImg: "img1.jpg" , 
+    title: "Rise and Shine! It's Your Time to Stun the World with Success",
+    author: "Shahid Afridi",
+    views: "970k",
+    timestamp: "9 month ago"
+},{
+    thumbnailImg: "img.jpg",
+    AuthorImg: "img1.jpg" , 
+    title: "Rise and Shine! It's Your Time to Stun the World with Success",
+    author: "Shahid Afridi",
+    views: "970k",
+    timestamp: "9 month ago"
+},{
+    thumbnailImg: "img.jpg",
+    AuthorImg: "img1.jpg" , 
+    title: "Rise and Shine! It's Your Time to Stun the World with Success",
+    author: "Shahid Afridi",
+    views: "970k",
+    timestamp: "9 month ago"
+},{
+    thumbnailImg: "img.jpg",
+    AuthorImg: "img1.jpg" , 
+    title: "Rise and Shine! It's Your Time to Stun the World with Success",
+    author: "Shahid Afridi",
+    views: "970k",
+    timestamp: "9 month ago"
+},{
+    thumbnailImg: "img.jpg",
+    AuthorImg: "img1.jpg" , 
+    title: "Rise and Shine! It's Your Time to Stun the World with Success",
+    author: "Shahid Afridi",
+    views: "970k",
+    timestamp: "9 month ago"
+},{
+    thumbnailImg: "img.jpg",
+    AuthorImg: "img1.jpg" , 
+    title: "Rise and Shine! It's Your Time to Stun the World with Success",
+    author: "Shahid Afridi",
+    views: "970k",
+    timestamp: "9 month ago"
+},{
+    thumbnailImg: "img.jpg",
+    AuthorImg: "img1.jpg" , 
+    title: "Rise and Shine! It's Your Time to Stun the World with Success",
+    author: "Shahid Afridi",
+    views: "970k",
+    timestamp: "9 month ago"
+},{
+    thumbnailImg: "img.jpg",
+    AuthorImg: "img1.jpg" , 
+    title: "Rise and Shine! It's Your Time to Stun the World with Success",
+    author: "Shahid Afridi",
+    views: "970k",
+    timestamp: "9 month ago"
+},{
+    thumbnailImg: "img.jpg",
+    AuthorImg: "img1.jpg" , 
+    title: "Rise and Shine! It's Your Time to Stun the World with Success",
+    author: "Shahid Afridi",
+    views: "970k",
+    timestamp: "9 month ago"
+},{
+    thumbnailImg: "img.jpg",
+    AuthorImg: "img1.jpg" , 
+    title: "Rise and Shine! It's Your Time to Stun the World with Success",
+    author: "Shahid Afridi",
+    views: "970k",
+    timestamp: "9 month ago"
+},{
+    thumbnailImg: "img.jpg",
+    AuthorImg: "img1.jpg" , 
+    title: "Rise and Shine! It's Your Time to Stun the World with Success",
+    author: "Shahid Afridi",
+    views: "970k",
+    timestamp: "9 month ago"
 }
 
 ]
