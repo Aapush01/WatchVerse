@@ -7,7 +7,12 @@ const inter = Inter({ subsets: ["latin"] });
 export default function Home() {
   return (
     <div>
-       <VideoCrad></VideoCrad>
+       <VideoCrad thumbnailImg={"img.jpg"}
+                  AuthorImg={"img1.jpg"}  
+                  title={"Level Up!, It's your turn now, shock them with your success"}
+                  author={"Shahid Afridi"}
+                  views={"970k"}
+                  timestamp="9 month ago" />
     </div>
   );
 }
