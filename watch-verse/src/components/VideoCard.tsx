@@ -1,6 +1,6 @@
 
 export function VideoCrad(props: any) {
-    return <div>
+    return <div className="p-3">
         <img className="rounded-xl" src={props.thumbnailImg} alt="thumbnail img" />
         <div className="grid grid-cols-12 pt-2 ">
             <div className="col-span-1">
