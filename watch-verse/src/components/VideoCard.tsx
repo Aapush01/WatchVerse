@@ -10,10 +10,10 @@ export function VideoCrad(props: any) {
                 <div>
                     {props.title}
                 </div>
-            <div className="col-span-11 text-gray-400 ">
+            <div className="col-span-11 text-customGray">
                  {props.author}
             </div>
-            <div className="col-span-11 text-gray-400 ">
+            <div className="col-span-11 text-customGray ">
                   {props.views} views |  {props.timestamp}
             </div>
             </div>
