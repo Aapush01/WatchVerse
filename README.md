@@ -61,7 +61,7 @@ Contributions are welcome! Whether you're fixing bugs, adding new features, or i
 
 - **GitHub**: [Aapush01](https://github.com/Aapush01)
 - **X**: [@Aapush2](https://twitter.com/Aapush2)
-- **Email**: [Email](mdshahidafridi.lnjpit@gmail.com)
+- **Email**: [email](mailto:mdshahidafridia31@gmail.com).
 - **Portfolio**: [Portfolio](https://aapush01.vercel.app/)
 
 ---
